@@ -1,4 +1,4 @@
 {
   "mongoURI": "mongodb://fred:123456@localhost:27017/ResSpot",
-  "jwtSecret": "secreto"
+  "jwtSecret": "secretoTokeno"
 }
